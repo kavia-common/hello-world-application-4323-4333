@@ -1,0 +1,4 @@
+{
+    "command": "python manage.py test",
+    "working_directory": "/tmp/kavia/workspace/code-generation/hello-world-application-4323-4333/backend_django"
+}
